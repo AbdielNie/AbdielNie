@@ -2,11 +2,11 @@
 
 I'm Liangyu Nie, bachelor of computer science student at RMIT University
 
-- 🔭 I’m currently working on 
-      - Style transfer
-      - Music2Dance
-- 📫 How to reach me: 
-      Email me:abdielnie@gmail.com
+- 🔭 I’m currently working on <br>
+      - Style transfer<br>
+      - Music2Dance<br>
+- 📫 How to reach me: <br>
+      Email me:abdielnie@gmail.com<br>
 
 #### Github Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielnie&show_icons=true&theme=radical)
