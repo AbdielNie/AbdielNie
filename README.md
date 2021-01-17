@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm Liangyu Nie, bachelor of computer science student at RMIT University
 
@@ -14,4 +14,4 @@ I'm Liangyu Nie, bachelor of computer science student at RMIT University
 #### Most Language I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdielnie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Nice to meet you!
+### Nice to meet you!
