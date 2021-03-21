@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liangyu Nie, bachelor of computer science student at RMIT University
+I'm Liangyu Nie, year 3 bachelor of computer science student at RMIT University
 
 - 🔭 I’m currently working on <br>
       - GCN + Transformer music to dance. 
