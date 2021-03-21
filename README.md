@@ -7,8 +7,8 @@ I'm Liangyu Nie, Year 3 bachelor of computer science student at RMIT University
      
       this work inspired by: 
       
-      Learn to Dance with AIST++: Music Conditioned 3D Dance Generation 
-      Paper link: https://arxiv.org/abs/2101.08779
+      [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779)
+
 - 📫 How to reach me: <br>
       Email me:abdielnie@gmail.com<br>
 
