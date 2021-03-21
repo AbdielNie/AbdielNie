@@ -4,10 +4,8 @@ I'm Liangyu Nie, Year 3 bachelor of computer science student at RMIT University
 
 - 🔭 I’m currently working on <br>
       - GCN + Transformer music to dance.<br> 
-     
-      this work inspired by: 
-      
-      [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779)
+      this work inspired by: <br> 
+      [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779)<br> 
 
 - 📫 How to reach me: <br>
       Email me:abdielnie@gmail.com<br>
