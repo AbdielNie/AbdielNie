@@ -2,7 +2,7 @@
 
 I'm Liangyu Nie, Year 3 bachelor of computer science student at RMIT University
 
-- 🔭 I’m currently working on <br>
+- 🔭 I’m currently working on KgCLUE<br>
 
 
 - 📫 How to reach me: <br>
