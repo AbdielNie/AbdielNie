@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liangyu Nie, Year 3 bachelor of computer science student at RMIT University
+I'm Liangyu Nie, computer science student focus on NLP
 
 - 🔭 I’m currently working on KgCLUE<br>
 
