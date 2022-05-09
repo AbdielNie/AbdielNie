@@ -2,7 +2,7 @@
 
 I'm Liangyu Nie, computer science student focus on NLP
 
-- 🔭 I’m currently working on Continual Learning<br>
+- 🔭 I’m currently working on Continual Learning&protein annotate&NLP instruction<br>
 
 
 - 📫 How to reach me: <br>
