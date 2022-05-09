@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liangyu Nie,🇨🇳&🇦🇺&🇬🇧computer science student focus on NLP
+I'm Liangyu Nie,:🇨🇳:&🇦🇺&🇬🇧computer science student focus on NLP
 
 - 🔭 I’m currently working on Continual Learning&protein annotate&NLP instruction<br>
 
