@@ -2,7 +2,7 @@
 
 I'm Liangyu Nie,:cn:&🇦🇺&🇬🇧computer science student focus on NLP
 
-- 🔭 I’m currently working on Continual Learning&Protein annotate&Generate task instruction&Social Chatbot<br>
+- 🔭 I’m currently working on Memory based Continual Learning&Generate task instruction&Open domain dialogue system<br>
 
 
 - 📫 How to reach me: <br>
