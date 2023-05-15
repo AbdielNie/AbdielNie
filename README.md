@@ -1,12 +1,9 @@
 ### Hello! 👋
 
 I'm Liangyu Nie,:cn:&🇦🇺&🇬🇧computer science student focus on NLP
-
-- 🔭 I’m currently working on Memory based Continual Learning&Generate task instruction&Open domain dialogue system<br>
-
-
+Incoming PHD student at UT dallas more info [here](https://abdielnie.github.io/)
 - 📫 How to reach me: <br>
-      Email me:abdielnie@gmail.com<br>
+      Email me:Liangyu.Nie@UTDallas.edu<br>
 
 #### Github Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielnie&show_icons=true&theme=radical)
