@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Liangyu Nie,:cn:&🇦🇺&🇬🇧computer science student focus on NLP
+I'm Liangyu Nie,:cn:&🇦🇺&🇬🇧&🇺🇸computer science student focus on NLP
 
 Incoming PHD student at UT dallas more info [here](https://abdielnie.github.io/)
 - 📫 How to reach me: <br>
